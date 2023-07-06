@@ -1,27 +1,27 @@
 <h1>
-  <img height="180em" src="https://play-lh.googleusercontent.com/HqMBR7PzsrueWCunD7iL10kVUBs4bNCPrmSuK7hb5Ya0tLkEbSnOHxhbUe1B6mH0YvI" alt="" />
-  <img height="100em" src="https://comung.org.br/wp-content/uploads/2020/12/PUCRS.png" alt="" />
+  <img height="150em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Bras%C3%A3o_PUCRS.png/1200px-Bras%C3%A3o_PUCRS.png" alt="" />
+  <img height="70em" src="https://comung.org.br/wp-content/uploads/2020/12/PUCRS.png" alt="" />
 </h1>
 
 ## Disciplinas do Curso de Engenharia de Software (98AL) da PUCRS
 
 -   ### Primeiro Semestre (2022/1)
 
-    -   [Cálculo I](https://github.com/felipefreitassilvalearning/EngenhariaSoftwarePUCRS/tree/develop/1_Semestre/Calculo_I)
-    -   [Formação do Empreendedor](https://github.com/felipefreitassilvalearning/EngenhariaSoftwarePUCRS/tree/develop/1_Semestre/Formacao_do_Empreendedor)
-    -   [Fundamentos de Programação (Java)](https://github.com/felipefreitassilvalearning/EngenhariaSoftwarePUCRS/tree/develop/1_Semestre/Fundamentos_de_Programacao)
-    -   [Introdução a Computação](https://github.com/felipefreitassilvalearning/EngenhariaSoftwarePUCRS/tree/develop/1_Semestre/Introducao_a_Engenharia_de_Software)
-    -   [Introdução a Engenharia de Software](https://github.com/felipefreitassilvalearning/EngenhariaSoftwarePUCRS/tree/develop/1_Semestre/Introducao_a_Computacao)
-    -   [Matemática Discreta](https://github.com/felipefreitassilvalearning/EngenhariaSoftwarePUCRS/tree/develop/1_Semestre/Matematica_Discreta)
+    -   [Cálculo I](https://github.com/mateuscacabuenaPUCRS/CalculoI)
+    -   [Formação do Empreendedor](https://github.com/mateuscacabuenaPUCRS/FormacaoEmpreendedor)
+    -   [Fundamentos de Programação (Java)](https://github.com/mateuscacabuenaPUCRS/FundamentosDeProgramacao)
+    -   [Introdução a Computação](https://github.com/mateuscacabuenaPUCRS/IntroducaoComputacao)
+    -   [Introdução a Engenharia de Software](https://github.com/mateuscacabuenaPUCRS/IntroducaoEngenhariaDeSoftware)
+    -   [Matemática Discreta](https://github.com/mateuscacabuenaPUCRS/MatematicaDiscreta)
 
 -   ### Segundo Semestre (2022/2)
 
-    -   [Banco de Dados I]()
-    -   [Engenharia de Requisitos]()
-    -   [Fundamentos de Sistemas Computacionais (Assembly)]()
-    -   [Gerenciamento de Configuração de Software]()
-    -   [Lógica para Computação]()
-    -   [Programação Orientada a Objetos (Java)]()
+    -   [Banco de Dados I](https://github.com/mateuscacabuenaPUCRS/BancoDeDadosI)
+    -   [Engenharia de Requisitos](https://github.com/mateuscacabuenaPUCRS/EngenhariaDeRequisitos)
+    -   [Fundamentos de Sistemas Computacionais (Assembly)](https://github.com/mateuscacabuenaPUCRS/FundamentosDeSistemasComputacionais)
+    -   [Gerenciamento de Configuração de Software](https://github.com/mateuscacabuenaPUCRS/GerenciamentoSoftware)
+    -   [Lógica para Computação](https://github.com/mateuscacabuenaPUCRS/LogicaComputacao)
+    -   [Programação Orientada a Objetos (Java)](https://github.com/mateuscacabuenaPUCRS/ProgramacaoOrientadaObjetos)
 
 -   ### Terceiro Semestre (2023/1)
 
