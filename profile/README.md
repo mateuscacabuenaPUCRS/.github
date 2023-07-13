@@ -25,12 +25,12 @@
 
 -   ### Terceiro Semestre (2023/1)
 
-    -   [Algoritmos e Estrutura de Dados I (Java)]()
-    -   [Banco de Dados II]()
-    -   [Linguagens, Autômatos e Computação]()
-    -   [Prática na Agência Experimental I (120 horas)]()
-    -   [Probabilidade e Estatística]()
-    -   [Processos Decisórios (Eletiva)]()
+    -   [Algoritmos e Estrutura de Dados I (Java)](https://github.com/mateuscacabuenaPUCRS/AlgoritmosEstruturaDeDadosI)
+    -   [Banco de Dados II](https://github.com/mateuscacabuenaPUCRS/BancoDeDadosII)
+    -   [Linguagens, Autômatos e Computação](https://github.com/mateuscacabuenaPUCRS/LinguagensAutomatosComputacao)
+    -   [Prática na Agência Experimental I (120 horas)](https://github.com/mateuscacabuenaPUCRS/AGES-I)
+    -   [Probabilidade e Estatística](https://github.com/mateuscacabuenaPUCRS/ProbabilidadeEstatisca)
+    -   [Processos Decisórios (Eletiva)](https://github.com/mateuscacabuenaPUCRS/ProcessosDecisorios)
 
 -   ### Quarto Semestre (2023/2)
 -   ...
