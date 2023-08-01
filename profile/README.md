@@ -33,4 +33,9 @@
     -   [Processos Decisórios (Eletiva)](https://github.com/mateuscacabuenaPUCRS/ProcessosDecisorios)
 
 -   ### Quarto Semestre (2023/2)
--   ...
+
+    -  [Algoritmos e Estrutura de Dados II](https://github.com/mateuscacabuenaPUCRS/AlgoritmosEstruturaDadosII).
+    -  [Computação Gráfica](https://github.com/mateuscacabuenaPUCRS/ComputacaoGrafica).
+    -  [Fundamentos de Processamento Paralelo e Distribuído](https://github.com/mateuscacabuenaPUCRS/FundamentosProcessamentoParaleloDistribuido).
+    -  [Laboratório de Games e Narrativas Gráficas](https://github.com/mateuscacabuenaPUCRS/LabGamesNarrativasGraficas).
+    -  [Linguagens de Programação](https://github.com/mateuscacabuenaPUCRS/LinguagensDeProgramacao).
