@@ -40,3 +40,9 @@
     -  [Linguagens de Programação](https://github.com/mateuscacabuenaPUCRS/LinguagensDeProgramacao)
 
 -   ### Quinto Semestre (2024/1)
+
+    -   [Gerenciamento de Projeto de Software]
+    -   [Prática na Agência Experimental II (120 horas)]
+    -   [Projeto e Arquitetura De Software]
+    -   [Sistemas Operacionais]
+    -   [Verificação e Validação de Software]
