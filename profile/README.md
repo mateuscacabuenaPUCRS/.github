@@ -41,8 +41,8 @@
 
 -   ### Quinto Semestre (2024/1)
 
-    -   [Gerenciamento de Projeto de Software]
+    -   [Gerenciamento de Projeto de Software](https://github.com/mateuscacabuenaPUCRS/GerenciamentoDeProjetoDeSoftware)
     -   [Prática na Agência Experimental II (120 horas)]
-    -   [Projeto e Arquitetura De Software]
-    -   [Sistemas Operacionais]
-    -   [Verificação e Validação de Software]
+    -   [Projeto e Arquitetura De Software](https://github.com/mateuscacabuenaPUCRS/ProjetoArquiteturaDeSoftware)
+    -   [Sistemas Operacionais](https://github.com/mateuscacabuenaPUCRS/SistemasOperacionais)
+    -   [Verificação e Validação de Software](https://github.com/mateuscacabuenaPUCRS/VerificacaoValidacaoDeSoftware)
