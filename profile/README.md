@@ -46,3 +46,11 @@
     -   [Projeto e Arquitetura De Software](https://github.com/mateuscacabuenaPUCRS/ProjetoArquiteturaDeSoftware)
     -   [Sistemas Operacionais](https://github.com/mateuscacabuenaPUCRS/SistemasOperacionais)
     -   [Verificação e Validação de Software](https://github.com/mateuscacabuenaPUCRS/VerificacaoValidacaoDeSoftware)
+ 
+-   ### Sexto Semestre (2024/2)
+
+    -   [Construção de Software](https://github.com/mateuscacabuenaPUCRS/ConstrucaoDeSoftware)
+    -   [Experiência do Usuário](https://github.com/mateuscacabuenaPUCRS/ExperienciaDoUsuario)
+    -   [Fundamentos de Redes de Computares](https://github.com/mateuscacabuenaPUCRS/FundamentosRedesDeComputadores)
+    -   [Laboratório de Redes de Computadores](https://github.com/mateuscacabuenaPUCRS/LabRedesDeComputadores)
+    -   [Sistemas De Planejamento E Custos Para Engenharia](https://github.com/mateuscacabuenaPUCRS/SistPlanejamentoCustosDeEngenharia)
