@@ -26,7 +26,7 @@
 -   ### Terceiro Semestre (2023/1)
 
     -   [Algoritmos e Estrutura de Dados I (Java)](https://github.com/mateuscacabuenaPUCRS/AlgoritmosEstruturaDeDadosI)
-    -   [Banco de Dados II (MongoDB e PowerBI](https://github.com/mateuscacabuenaPUCRS/BancoDeDadosII)
+    -   [Banco de Dados II (MongoDB e PowerBI)](https://github.com/mateuscacabuenaPUCRS/BancoDeDadosII)
     -   [Linguagens, Autômatos e Computação](https://github.com/mateuscacabuenaPUCRS/LinguagensAutomatosComputacao)
     -   [Prática na Agência Experimental I (120 horas)](https://github.com/mateuscacabuenaPUCRS/AGES-I)
     -   [Probabilidade e Estatística](https://github.com/mateuscacabuenaPUCRS/ProbabilidadeEstatisca)
@@ -37,7 +37,7 @@
     -  [Algoritmos e Estrutura de Dados II (Java)](https://github.com/mateuscacabuenaPUCRS/AlgoritmosEstruturaDadosII)
     -  [Fundamentos de Processamento Paralelo e Distribuído (Go)](https://github.com/mateuscacabuenaPUCRS/FundamentosProcessamentoParaleloDistribuido)
     -  [Laboratório de Games e Narrativas Gráficas](https://github.com/mateuscacabuenaPUCRS/LabGamesNarrativasGraficas)
-    -  [Linguagens de Programação](https://github.com/mateuscacabuenaPUCRS/LinguagensDeProgramacao)
+    -  [Linguagens de Programação (Java)](https://github.com/mateuscacabuenaPUCRS/LinguagensDeProgramacao)
 
 -   ### Quinto Semestre (2024/1)
 
