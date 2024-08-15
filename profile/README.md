@@ -26,7 +26,7 @@
 -   ### Terceiro Semestre (2023/1)
 
     -   [Algoritmos e Estrutura de Dados I (Java)](https://github.com/mateuscacabuenaPUCRS/AlgoritmosEstruturaDeDadosI)
-    -   [Banco de Dados II](https://github.com/mateuscacabuenaPUCRS/BancoDeDadosII)
+    -   [Banco de Dados II (MongoDB e PowerBI](https://github.com/mateuscacabuenaPUCRS/BancoDeDadosII)
     -   [Linguagens, Autômatos e Computação](https://github.com/mateuscacabuenaPUCRS/LinguagensAutomatosComputacao)
     -   [Prática na Agência Experimental I (120 horas)](https://github.com/mateuscacabuenaPUCRS/AGES-I)
     -   [Probabilidade e Estatística](https://github.com/mateuscacabuenaPUCRS/ProbabilidadeEstatisca)
@@ -34,8 +34,8 @@
 
 -   ### Quarto Semestre (2023/2)
 
-    -  [Algoritmos e Estrutura de Dados II](https://github.com/mateuscacabuenaPUCRS/AlgoritmosEstruturaDadosII)
-    -  [Fundamentos de Processamento Paralelo e Distribuído](https://github.com/mateuscacabuenaPUCRS/FundamentosProcessamentoParaleloDistribuido)
+    -  [Algoritmos e Estrutura de Dados II (Java)](https://github.com/mateuscacabuenaPUCRS/AlgoritmosEstruturaDadosII)
+    -  [Fundamentos de Processamento Paralelo e Distribuído (Go)](https://github.com/mateuscacabuenaPUCRS/FundamentosProcessamentoParaleloDistribuido)
     -  [Laboratório de Games e Narrativas Gráficas](https://github.com/mateuscacabuenaPUCRS/LabGamesNarrativasGraficas)
     -  [Linguagens de Programação](https://github.com/mateuscacabuenaPUCRS/LinguagensDeProgramacao)
 
@@ -43,8 +43,8 @@
 
     -   [Gerenciamento de Projeto de Software](https://github.com/mateuscacabuenaPUCRS/GerenciamentoDeProjetoDeSoftware)
     -   [Prática na Agência Experimental II (120 horas)](https://github.com/mateuscacabuenaPUCRS/AGES-II)
-    -   [Projeto e Arquitetura De Software](https://github.com/mateuscacabuenaPUCRS/ProjetoArquiteturaDeSoftware)
-    -   [Sistemas Operacionais](https://github.com/mateuscacabuenaPUCRS/SistemasOperacionais)
+    -   [Projeto e Arquitetura De Software (Java)](https://github.com/mateuscacabuenaPUCRS/ProjetoArquiteturaDeSoftware)
+    -   [Sistemas Operacionais (C)](https://github.com/mateuscacabuenaPUCRS/SistemasOperacionais)
     -   [Verificação e Validação de Software](https://github.com/mateuscacabuenaPUCRS/VerificacaoValidacaoDeSoftware)
  
 -   ### Sexto Semestre (2024/2)
