@@ -51,7 +51,16 @@
 
     -   [Construção de Software](https://github.com/mateuscacabuenaPUCRS/ConstrucaoDeSoftware)
     -   [Experiência do Usuário](https://github.com/mateuscacabuenaPUCRS/ExperienciaDoUsuario)
-    -   [Fundamentos de Redes de Computares](https://github.com/mateuscacabuenaPUCRS/FundamentosRedesDeComputadores)
+    -   [Fundamentos de Redes de Computadores](https://github.com/mateuscacabuenaPUCRS/FundamentosRedesDeComputadores)
+    -   [Laboratório de Redes de Computadores](https://github.com/mateuscacabuenaPUCRS/LabRedesDeComputadores)
+    -   [Projeto e Otimização de Algoritmos](https://github.com/mateuscacabuenaPUCRS/ProjetoOtimizacaoDeAlgoritmos)
+    -   [Sistemas de Planejamento e Custos para Engenharia](https://github.com/mateuscacabuenaPUCRS/SistPlanejamentoCustosDeEngenharia)
+ 
+-   ### Sétimo Semestre (2025/1)
+
+    -   [Engenharia de Software Experimental](https://github.com/mateuscacabuenaPUCRS/ConstrucaoDeSoftware)
+    -   [Infraestrutura Para Gestão De Dados](https://github.com/mateuscacabuenaPUCRS/ExperienciaDoUsuario)
+    -   [Melhoria de Processos de Software](https://github.com/mateuscacabuenaPUCRS/FundamentosRedesDeComputadores)
     -   [Laboratório de Redes de Computadores](https://github.com/mateuscacabuenaPUCRS/LabRedesDeComputadores)
     -   [Projeto e Otimização de Algoritmos](https://github.com/mateuscacabuenaPUCRS/ProjetoOtimizacaoDeAlgoritmos)
     -   [Sistemas De Planejamento E Custos Para Engenharia](https://github.com/mateuscacabuenaPUCRS/SistPlanejamentoCustosDeEngenharia)
