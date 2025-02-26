@@ -58,9 +58,8 @@
  
 -   ### Sétimo Semestre (2025/1)
 
-    -   [Engenharia de Software Experimental](https://github.com/mateuscacabuenaPUCRS/ConstrucaoDeSoftware)
-    -   [Infraestrutura Para Gestão De Dados](https://github.com/mateuscacabuenaPUCRS/ExperienciaDoUsuario)
-    -   [Melhoria de Processos de Software](https://github.com/mateuscacabuenaPUCRS/FundamentosRedesDeComputadores)
-    -   [Laboratório de Redes de Computadores](https://github.com/mateuscacabuenaPUCRS/LabRedesDeComputadores)
-    -   [Projeto e Otimização de Algoritmos](https://github.com/mateuscacabuenaPUCRS/ProjetoOtimizacaoDeAlgoritmos)
-    -   [Sistemas De Planejamento E Custos Para Engenharia](https://github.com/mateuscacabuenaPUCRS/SistPlanejamentoCustosDeEngenharia)
+    -   [Engenharia de Software Experimental](https://github.com/mateuscacabuenaPUCRS/EngSoftwareExperimental)
+    -   [Infraestrutura para Gestão de Dados](https://github.com/mateuscacabuenaPUCRS/InfraestruturaGestaoDados)
+    -   [Inteligência Artificial](https://github.com/mateuscacabuenaPUCRS/InteligenciaArtificial)
+    -   [Melhoria de Processos de Software](https://github.com/mateuscacabuenaPUCRS/MelhoriaProcessosSoftware)
+    -   [Prática na Agência Experimental III (120 horas)](https://github.com/mateuscacabuenaPUCRS/AGES-III)
