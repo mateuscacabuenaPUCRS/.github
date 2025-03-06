@@ -59,8 +59,11 @@
 -   ### Sétimo Semestre (2025/1)
 
     -   [Engenharia de Software Experimental](https://github.com/mateuscacabuenaPUCRS/EngSoftwareExperimental)
+    -   [Humanismo e Cultura Religiosa](https://github.com/mateuscacabuenaPUCRS/HumanismoCulturaReligiosa)
     -   [Infraestrutura para Gestão de Dados](https://github.com/mateuscacabuenaPUCRS/InfraestruturaGestaoDados)
     -   [Inteligência Artificial](https://github.com/mateuscacabuenaPUCRS/InteligenciaArtificial)
     -   [Melhoria de Processos de Software](https://github.com/mateuscacabuenaPUCRS/MelhoriaProcessosSoftware)
     -   [Prática na Agência Experimental III (120 horas)](https://github.com/mateuscacabuenaPUCRS/AGES-III)
     -   [Programação de Software Básico (C)](https://github.com/mateuscacabuenaPUCRS/ProgramacaoSoftwareBasico)
+    -   [Psicologia e Gestão de Pessoas em TI](https://github.com/mateuscacabuenaPUCRS/PsicologiaGestaoPessoasTI) 
+    -   [Simulação e Métodos Analíticos](https://github.com/mateuscacabuenaPUCRS/SimulacaoMetodosAnaliticos)
