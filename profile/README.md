@@ -67,3 +67,13 @@
     -   [Programação de Software Básico (C)](https://github.com/mateuscacabuenaPUCRS/ProgramacaoSoftwareBasico)
     -   [Psicologia e Gestão de Pessoas em TI](https://github.com/mateuscacabuenaPUCRS/PsicologiaGestaoPessoasTI) 
     -   [Simulação e Métodos Analíticos](https://github.com/mateuscacabuenaPUCRS/SimulacaoMetodosAnaliticos)
+ 
+-   ### Oitavo Semestre (2025/2)
+
+    -   [Ética e Cidadania](https://github.com/mateuscacabuenaPUCRS/EticaCidadania)
+    -   [Engenharia Econômica](https://github.com/mateuscacabuenaPUCRS/EngenhariaEconomica)
+    -   [Infraestrutura de TI](https://github.com/mateuscacabuenaPUCRS/InfraestruturaTI)
+    -   [Marketing (Eletiva)](https://github.com/mateuscacabuenaPUCRS/Marketing)
+    -   [Métodos Formais para Computação](https://github.com/mateuscacabuenaPUCRS/MetodosFormais)
+    -   [Negócios Digitais (Eletiva)](https://github.com/mateuscacabuenaPUCRS/NegociosDigitais)
+    -   [Prática na Agência Experimental IV (120 horas)](https://github.com/mateuscacabuenaPUCRS/AGES-IV)
