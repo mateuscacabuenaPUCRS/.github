@@ -36,7 +36,7 @@
 
     -  [Algoritmos e Estrutura de Dados II (Java)](https://github.com/mateuscacabuenaPUCRS/AlgoritmosEstruturaDadosII)
     -  [Fundamentos de Processamento Paralelo e Distribuído (Go)](https://github.com/mateuscacabuenaPUCRS/FundamentosProcessamentoParaleloDistribuido)
-    -  [Laboratório de Games e Narrativas Gráficas](https://github.com/mateuscacabuenaPUCRS/LabGamesNarrativasGraficas)
+    -  [Laboratório de Games e Narrativas Gráficas (Eletiva)](https://github.com/mateuscacabuenaPUCRS/LabGamesNarrativasGraficas)
     -  [Linguagens de Programação (Java)](https://github.com/mateuscacabuenaPUCRS/LinguagensDeProgramacao)
 
 -   ### Quinto Semestre (2024/1)
