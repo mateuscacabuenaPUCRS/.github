@@ -77,3 +77,5 @@
     -   [Métodos Formais para Computação](https://github.com/mateuscacabuenaPUCRS/MetodosFormais)
     -   [Negócios Digitais (Eletiva)](https://github.com/mateuscacabuenaPUCRS/NegociosDigitais)
     -   [Prática na Agência Experimental IV (120 horas)](https://github.com/mateuscacabuenaPUCRS/AGES-IV)
+
+-   ### Nono Semestre (2026/1)
