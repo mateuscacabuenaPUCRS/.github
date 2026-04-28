@@ -79,3 +79,10 @@
     -   [Prática na Agência Experimental IV (120 horas)](https://github.com/mateuscacabuenaPUCRS/AGES-IV)
 
 -   ### Nono Semestre (2026/1)
+    
+    -   [Cultura Digital (Eletiva)](https://github.com/mateuscacabuenaPUCRS/CulturaDigital)
+    -   [Engenharia e Gestão do Conhecimento](https://github.com/mateuscacabuenaPUCRS/EngenhariaGestaoDoConhecimento)
+    -   [História da Computação](https://github.com/mateuscacabuenaPUCRS/HistoriaDaComputacao)
+    -   [Influenciadores Digitais e Estratégias de Comunicação (Eletiva)](https://github.com/mateuscacabuenaPUCRS/EstrategiasDeComunicacao)
+    -   [Segurança de Sistemas](https://github.com/mateuscacabuenaPUCRS/SegurancaDeSistemas)
+  
